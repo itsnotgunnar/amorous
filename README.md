@@ -18,6 +18,8 @@
 
 ## Why Use It?
 
+It's worth noting that this found an interesting file, "C:\Windows\security\logs\scedcpro.log", that shows you local and Active Directory configuration changes made my administrators. From my experience, it's been on every system, though I haven't pentested any enterprises. Worth checking out.
+
 - **Security Auditing**: Get a quick overview of where potential secrets might be stored.
 - **Compliance Checks**: Identify sensitive information before audits or compliance reviews.
 - **Breach Prevention**: Spot insecure data storage before attackers do.
